@@ -105,4 +105,4 @@ theme: hexo-theme-quiet
 deploy:
   type: git
   repo: https://github.com/ru8228/ru8228.github.io.git
-  branch: master
+  branch: main
